@@ -37,7 +37,7 @@ public class Calculadora {
 		// - Oper05 - Inês S.
 		
 		Oper05 ope05=new Oper05();
-		double res05 = ope05.oper(1, 2);
+		double res05 = ope05.oper(1, 20);
 		System.out.println(res05);
 
 		// - Oper06 - Leonardo P.
