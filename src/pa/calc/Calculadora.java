@@ -43,7 +43,7 @@ public class Calculadora {
 		// - Oper06 - Leonardo P.
 		
 		Oper06 ope06=new Oper06();
-		double res06 = opex.oper(1, 2);
+		double res06 = ope06.oper(1, 2);
 		System.out.println(res06);
 
 		// - Oper07 - Nuno M.
