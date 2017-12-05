@@ -76,6 +76,4 @@ public class Calculadora {
 		System.out.println(res10);
 
 	}
-
 }
->>>>>>> branch 'master' of https://github.com/paaraujogit/pa-natixis-java-proj.git
