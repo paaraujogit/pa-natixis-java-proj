@@ -24,9 +24,14 @@ public class Calculadora {
 
 		// - Oper03 - António F.
 		
-		OperacaoParaboloideHiperbolico ope03=new OperacaoParaboloideHiperbolico();
+		OperacaoParaboloideHiperbolico ope03=new OperacaoParaboloideHiperbolico(); 
 		double res03 = ope03.oper(1, 2);
+		System.out.println("Operação Paraboloide hiperbolico:");
 		System.out.println(res03);
+		// outra operação
+		System.out.println("Inverso da peração Paraboloide hiperbolico:");
+		double invRes03 = ope03.oper(2, 1);
+		System.out.println(invRes03);
 
 		// - Oper04 - Gonçalo F.
 		
@@ -40,7 +45,7 @@ public class Calculadora {
 		double res05 = ope05.oper(1, 20);
 		System.out.println(res05);
 
-		// - Oper06 - Leonardo o Portista 
+		// - Oper06 - Leonardo P.
 		
 		Oper06 ope06=new Oper06();
 		double res06 = ope06.oper(1, 2);
@@ -71,5 +76,4 @@ public class Calculadora {
 		System.out.println(res10);
 
 	}
-
 }
