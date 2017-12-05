@@ -19,7 +19,7 @@ public class Calculadora {
 		// - Oper02 - Alexandre T.
 		
 		Oper02 ope02=new Oper02();
-		double res02 = ope02.oper(1, 2);
+		double res02 = ope02.oper(2, 3);
 		System.out.println(res02);
 
 		// - Oper03 - António F.
