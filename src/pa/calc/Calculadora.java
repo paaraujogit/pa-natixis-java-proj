@@ -12,15 +12,15 @@ public class Calculadora {
 		
 		// - Oper01 - Alexandre M.
 		
-//		Oper01 ope01=new Oper01();
-//		double res01 = opex.oper(1, 2);
-//		System.out.println(res01);
+		Oper01 ope01=new Oper01();
+		double res01 = opex.oper(1, 2);
+		System.out.println(res01);
 
 		// - Oper02 - Alexandre T.
 		
-//		Oper02 ope02=new Oper01();
-//		double res02 = opex.oper(1, 2);
-//		System.out.println(res02);
+		Oper02 ope02=new Oper01();
+		double res02 = opex.oper(1, 2);
+		System.out.println(res02);
 
 		// - Oper03 - António F.
 		
@@ -42,9 +42,9 @@ public class Calculadora {
 
 		// - Oper06 - Leonardo P.
 		
-//		Oper06 ope06=new Oper01();
-//		double res06 = opex.oper(1, 2);
-//		System.out.println(res06);
+		Oper06 ope06=new Oper06();
+		double res06 = opex.oper(1, 2);
+		System.out.println(res06);
 
 		// - Oper07 - Nuno M.
 		
@@ -54,9 +54,9 @@ public class Calculadora {
 
 		// - Oper08 - Pedro B.
 		
-//		Oper08 ope08=new Oper01();
-//		double res08 = opex.oper(1, 2);
-//		System.out.println(res08);
+		Oper08 ope08=new Oper08();
+		double res08 = opex.oper(1, 2);
+		System.out.println(res08);
 
 		// - Oper09 - Rui L.
 		
