@@ -5,4 +5,6 @@ public class OperacaoParaboloideHiperbolico implements ItfOper{
 	public double oper(double op1, double op2) {
 		return op1*op1-op2*op2;
 	}
+	
+	//comentario
 }
