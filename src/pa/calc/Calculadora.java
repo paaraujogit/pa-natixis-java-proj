@@ -24,7 +24,7 @@ public class Calculadora {
 
 		// - Oper03 - António F.
 		
-		OperacaoParaboloideHiperbolico ope03=new OperacaoParaboloideHiperbolico();
+		OperacaoParaboloideHiperbolico ope03=new OperacaoParaboloideHiperbolico(); 
 		double res03 = ope03.oper(1, 2);
 		System.out.println("Operação Paraboloide hiperbolico:");
 		System.out.println(res03);
