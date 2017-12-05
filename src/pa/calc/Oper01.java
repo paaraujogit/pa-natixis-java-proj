@@ -3,10 +3,11 @@ package pa.calc;
 import static java.lang.Math.sqrt;
 
 public class Oper01 implements ItfOper {
-
+    //Calcular hipotenusa v.2
 	@Override
 	public double oper(double op1, double op2) {
-		return sqrt(op1*op1 + op2*op2);
+    	double hipo = Math.floor(sqrt(op1*op1 + op2*op2));
+		System.out.println("Hipotenusa: sqrt(" + op1 + "^2 + " + op2 + "^2) = " + hipo);
+		return hipo;	
 	}
-
 }

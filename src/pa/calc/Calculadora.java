@@ -19,7 +19,7 @@ public class Calculadora {
 		// - Oper02 - Alexandre T.
 		
 		Oper02 ope02=new Oper02();
-		double res02 = ope02.oper(1, 2);
+		double res02 = ope02.oper(2, 3);
 		System.out.println(res02);
 
 		// - Oper03 - António F.
@@ -40,7 +40,7 @@ public class Calculadora {
 		double res05 = ope05.oper(1, 20);
 		System.out.println(res05);
 
-		// - Oper06 - Leonardo P.
+		// - Oper06 - Leonardo o Portista 
 		
 		Oper06 ope06=new Oper06();
 		double res06 = ope06.oper(1, 2);
@@ -52,7 +52,7 @@ public class Calculadora {
 		double res07 = ope07.oper(1, 2);
 		System.out.println(res07);
 
-		// - Oper08 - Pedro B.
+		// - Oper08 - Pedro Balthazar
 		
 		Oper08 ope08=new Oper08();
 		double res08 = ope08.oper(1, 2);

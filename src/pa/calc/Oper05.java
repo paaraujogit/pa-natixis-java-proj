@@ -16,4 +16,5 @@ public class Oper05 implements ItfOper{
 		}
 		return (value);
 	}
+	//versao3
 }
