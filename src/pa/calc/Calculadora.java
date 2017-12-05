@@ -52,7 +52,7 @@ public class Calculadora {
 		double res07 = ope07.oper(1, 2);
 		System.out.println(res07);
 
-		// - Oper08 - Pedro B.
+		// - Oper08 - Pedro Balthazar
 		
 		Oper08 ope08=new Oper08();
 		double res08 = ope08.oper(1, 2);
