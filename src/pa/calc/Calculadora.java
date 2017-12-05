@@ -12,9 +12,9 @@ public class Calculadora {
 		
 		// - Oper01 - Alexandre M.
 		
-//		Oper01 ope01=new Oper01();
-//		double res01 = opex.oper(1, 2);
-//		System.out.println(res01);
+		Oper01 ope01=new Oper01();
+		double res01 = opex.oper(1, 2);
+		System.out.println(res01);
 
 		// - Oper02 - Alexandre T.
 		
