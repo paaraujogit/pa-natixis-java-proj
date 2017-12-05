@@ -30,9 +30,9 @@ public class Calculadora {
 
 		// - Oper04 - Gonçalo F.
 		
-//		Oper04 ope04=new Oper01();
-//		double res04 = opex.oper(1, 2);
-//		System.out.println(res04);
+		Oper04 ope04=new Oper04();
+		double res04 = ope04.oper(4, 3);
+		System.out.println(res04);
 
 		// - Oper05 - Inês S.
 		
