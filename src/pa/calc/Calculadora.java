@@ -17,8 +17,8 @@ public class Calculadora {
 		System.out.println(res01);
 
 		// - Oper02 - Alexandre T.
-		
-		Oper02 ope02=new Oper02();
+
+		Oper02 ope02=new Oper02(); // Meu XY comentário 
 		double res02 = ope02.oper(2, 3);
 		System.out.println(res02);
 
@@ -28,7 +28,7 @@ public class Calculadora {
 		double res03 = ope03.oper(1, 2);
 		System.out.println("Operação Paraboloide hiperbolico:");
 		System.out.println(res03);
-		// outra operação
+		// outra operação ALTERADA 
 		System.out.println("Inverso da peração Paraboloide hiperbolico:");
 		double invRes03 = ope03.oper(2, 1);
 		System.out.println(invRes03);
