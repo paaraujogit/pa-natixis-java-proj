@@ -17,8 +17,8 @@ public class Calculadora {
 		System.out.println(res01);
 
 		// - Oper02 - Alexandre T.
-		
-		Oper02 ope02=new Oper02(); // Meu Y comentário 
+
+		Oper02 ope02=new Oper02(); // Meu XY comentário 
 		double res02 = ope02.oper(2, 3);
 		System.out.println(res02);
 
