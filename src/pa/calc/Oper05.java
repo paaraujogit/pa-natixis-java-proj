@@ -16,5 +16,5 @@ public class Oper05 implements ItfOper{
 		}
 		return (value);
 	}
-	//versao4 qualquer
+	//versao4 qualquer sdgaf
 }
