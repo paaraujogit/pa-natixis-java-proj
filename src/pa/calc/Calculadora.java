@@ -37,7 +37,7 @@ public class Calculadora {
 		// - Oper05 - Inês S.
 		
 		Oper05 ope05=new Oper05();
-		double res05 = ope05.oper(1, 2);
+		double res05 = ope05.oper(1, 20);
 		System.out.println(res05);
 
 		// - Oper06 - Leonardo P.
@@ -61,7 +61,7 @@ public class Calculadora {
 		// - Oper09 - Rui L.
 		
 		Oper09 ope09=new Oper09();
-		double res09 = opex.oper(1, 2);
+		double res09 = ope09.oper(1, 2);
 		System.out.println(res09);
 
 		// - Oper10 - Rui M.
