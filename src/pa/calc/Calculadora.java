@@ -28,7 +28,7 @@ public class Calculadora {
 		double res03 = ope03.oper(1, 2);
 		System.out.println("Operação Paraboloide hiperbolico:");
 		System.out.println(res03);
-		// outra operação
+		// outra operação ALTERADA
 		System.out.println("Inverso da peração Paraboloide hiperbolico:");
 		double invRes03 = ope03.oper(2, 1);
 		System.out.println(invRes03);
