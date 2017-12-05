@@ -12,27 +12,31 @@ public class Calculadora {
 		
 		// - Oper01 - Alexandre M.
 		
-//		Oper01 ope01=new Oper01();
-//		double res01 = opex.oper(1, 2);
-//		System.out.println(res01);
+		Oper01 ope01=new Oper01();
+		double res01 = opex.oper(1, 2);
+		System.out.println(res01);
 
 		// - Oper02 - Alexandre T.
 		
-//		Oper02 ope02=new Oper01();
-//		double res02 = opex.oper(1, 2);
-//		System.out.println(res02);
+		Oper02 ope02=new Oper02();
+<<<<<<< HEAD
+		double res02 = op02.oper(1, 2);
+=======
+		double res02 = opex.oper(1, 2);
+>>>>>>> 4ca51eeeee4fae46d9bfa457b42c4977b2d2990c
+		System.out.println(res02);
 
 		// - Oper03 - António F.
 		
-//		Oper03 ope03=new Oper01();
-//		double res03 = opex.oper(1, 2);
-//		System.out.println(res03);
+		OperacaoParaboloideHiperbolico ope03=new OperacaoParaboloideHiperbolico();
+		double res03 = ope03.oper(1, 2);
+		System.out.println(res03);
 
 		// - Oper04 - Gonçalo F.
 		
-//		Oper04 ope04=new Oper01();
-//		double res04 = opex.oper(1, 2);
-//		System.out.println(res04);
+		Oper04 ope04=new Oper04();
+		double res04 = ope04.oper(4, 3);
+		System.out.println(res04);
 
 		// - Oper05 - Inês S.
 		
@@ -43,7 +47,7 @@ public class Calculadora {
 		// - Oper06 - Leonardo P.
 		
 		Oper06 ope06=new Oper06();
-		double res06 = opex.oper(1, 2);
+		double res06 = ope06.oper(1, 2);
 		System.out.println(res06);
 
 		// - Oper07 - Nuno M.
@@ -54,9 +58,9 @@ public class Calculadora {
 
 		// - Oper08 - Pedro B.
 		
-//		Oper08 ope08=new Oper01();
-//		double res08 = opex.oper(1, 2);
-//		System.out.println(res08);
+		Oper08 ope08=new Oper08();
+		double res08 = opex.oper(1, 2);
+		System.out.println(res08);
 
 		// - Oper09 - Rui L.
 		
@@ -66,9 +70,9 @@ public class Calculadora {
 
 		// - Oper10 - Rui M.
 		
-//		Oper10 ope10=new Oper10();
-//		double res10 = opex.oper(1, 2);
-//		System.out.println(res01);
+		Oper10 ope10=new Oper10();
+		double res10 = ope10.oper(1, 2);
+		System.out.println(res10);
 
 	}
 
