@@ -54,9 +54,9 @@ public class Calculadora {
 
 		// - Oper08 - Pedro B.
 		
-//		Oper08 ope08=new Oper01();
-//		double res08 = opex.oper(1, 2);
-//		System.out.println(res08);
+		Oper08 ope08=new Oper08();
+		double res08 = opex.oper(1, 2);
+		System.out.println(res08);
 
 		// - Oper09 - Rui L.
 		
