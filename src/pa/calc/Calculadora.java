@@ -24,7 +24,11 @@ public class Calculadora {
 //		System.out.println(res02);
 =======
 		Oper02 ope02=new Oper02();
+<<<<<<< HEAD
+		double res02 = op02.oper(1, 2);
+=======
 		double res02 = opex.oper(1, 2);
+>>>>>>> 4ca51eeeee4fae46d9bfa457b42c4977b2d2990c
 		System.out.println(res02);
 >>>>>>> 4ca51eeeee4fae46d9bfa457b42c4977b2d2990c
 
