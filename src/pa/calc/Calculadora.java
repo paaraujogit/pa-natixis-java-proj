@@ -40,7 +40,7 @@ public class Calculadora {
 		double res05 = ope05.oper(1, 20);
 		System.out.println(res05);
 
-		// - Oper06 - Leonardo P.
+		// - Oper06 - Leonardo o Portista 
 		
 		Oper06 ope06=new Oper06();
 		double res06 = ope06.oper(1, 2);
