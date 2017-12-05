@@ -7,9 +7,4 @@ public class Oper08 implements ItfOper{
 		
 		return Math.pow(op1,op2);
 	}
-	
-	
-	
-	
-
 }
